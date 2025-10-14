@@ -5,7 +5,7 @@
 The topic i chose for this project is cooking because I was always interested in this topic. I always wanted to know what technology we can add to this topic. There were many other subjects that i was also interested in like real estate/ business. Some websites I found are https://cookingschoolguide.com/the-role-of-technology-in-modern-food-preparation/ and https://newyorkculinaryschool.com/blog/culinary-news-trends/technology-shaping-modern-cooking. I was shocked by how impactful technology has been on cooking.
 
 ## EDP
-I'm currently on step 1 of my EDP. Where we find a topic that we felt interested in and spend a lot fo time researching that topic to learn about that topic. I want to inform the people around me about how technology has impacted culinary arts. I feel like I will be on this stage for a long time because I will need to put a lot of research into this to support my claims.
+I'm currently on step 1 of my EDP. Where we find a topic that we felt interested in and spend a lot of time researching that topic to learn about that topic.On the next step after the first one i will like to inform more people on the impact of technology on cooking
 
 
 ## skills
