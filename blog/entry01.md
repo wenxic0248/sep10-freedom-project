@@ -2,7 +2,7 @@
 ##### 10/13/25
 ##  Choosing my topic
 
-The topic i chose for this project is cooking because I was always interested in this topic. I always wanted to know what technology we can add to this topic. There were many other subjects that i was also interested in like real estate/ business. Some websites I found are https://cookingschoolguide.com/the-role-of-technology-in-modern-food-preparation/ and https://newyorkculinaryschool.com/blog/culinary-news-trends/technology-shaping-modern-cooking. I was shocked by how impactful technology has been on cooking.
+The topic i chose for this project was cooking because I was always felt interested in this topic. I wondered  what technology we can add to this topic to do it more effectively . There were many other subjects that i was also interested in like real estate/ business. Some websites I found are https://cookingschoolguide.com/the-role-of-technology-in-modern-food-preparation/ and https://newyorkculinaryschool.com/blog/culinary-news-trends/technology-shaping-modern-cooking. I was shocked by how impactful technology has been on cooking.
 
 ## EDP
 I'm currently on step 1 of my EDP. Where we find a topic that we felt interested in and spend a lot of time researching that topic to learn about that topic.On the next step after the first one i will like to inform more people on the impact of technology on cooking
