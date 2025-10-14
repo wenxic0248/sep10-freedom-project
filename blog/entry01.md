@@ -19,6 +19,8 @@ I had a lot of time outside of school. i used to not do a lot of work in the pas
 ### how to Google
 I learned a more effective way to Google as if u search up " cooking technology," a lot of results will pop up, so you should just summarize what these websites were trying to tell you about technology with cooking.
 
+##summary 
+i cant wait to make a website on cooking as this feels like a dream becoming into reality.I hope the website would be very useful and creative 
 
 [Next](entry02.md)
 
