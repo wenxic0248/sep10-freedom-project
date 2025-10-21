@@ -10,7 +10,7 @@ Topic: **Cooking apps**
 ## Part A: existing technology
 * steaming 
   * This is a underrated cooking technology / way of cooking 
-  * steaming shrimp dumplings https://www.simplycookingrecipes.com/wp-content/uploads/2024/10/steaming-shrimp.webp
+  * steaming shrimp dumpling https://static.toiimg.com/thumb/msid-82797499,width-1070,height-580,resizemode-75/82797499,pt-32,y_pad-40/82797499.jpg
 
 ## Part B: possible future technology
 * Idea
