@@ -19,7 +19,7 @@ Topic: **Cooking apps**
   * steaming shrimp dumpling
   * steaming is a very old techinque of cooking
   * https://asianinspirations.com.au/wp-content/uploads/2018/07/Steam-Bamboo-Basket-940x627.jpg
+  * 
 
 ## Part B: possible future technology
-* A future technology that they can make is maybe a advanced steamer
-  * This steamer would be made out of wood you can fill it up with water then place food that you want to heat up or cook instead of it
+
