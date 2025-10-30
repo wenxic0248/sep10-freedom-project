@@ -19,7 +19,25 @@ Topic: **Cooking apps**
   * steaming shrimp dumpling
   * steaming is a very old techinque of cooking
   * https://asianinspirations.com.au/wp-content/uploads/2018/07/Steam-Bamboo-Basket-940x627.jpg
-  * 
+ 
+ * My second search: Cooking devices
+ * I checked out this first website https://www.goodhousekeeping.com/cooking-tools/g28563931/cool-kitchen-gadgets/
+ * it tells you about all of these cooking devices and ranking them on how useful they are
+ * there were a lot of device ranging from a device to make ice to devices that are useful for baking
+ * for example a whisk wiper to remove any stuck food or batter on the whisk
+ * or a Slice Ceramic Blade Safety Cutter that protects you from cutting yourself
+ * Anyday Microwave Cookware to hold leftover food to mircowave
+ * or a grater that can be used to grate both cheese and a lime
+ * Gozney Pizza Rocker used to cut pizzas cleanly and evenly
+ * ice box used to hold ice
+ * mini waffle maker that makes a smaller version of a waffle
+ * these devices are used to make these process to make these item / food easier to make
+ * or device to protect you so you dont get hurt while cooking
+ * there are also many other products that can help with cooking
+ * some could be more useful then others
+   
+   
+   
 
 ## Part B: possible future technology
 
