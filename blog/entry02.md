@@ -7,6 +7,12 @@ After writing Blog 1, I did a lot of researching and found someone good website 
 ## EDP(Engineering Design Process)
 im currently on step 3 im trying to find possible solutions to my topics as of right.Something i can do to stop this issue for my topic is to tell people abouyt these cooking technology and how it is very impactful/useful for cooking in your kitchen or find someway to advertise all of these cooking technology so morre people are aware of this.
 
+### skills 
+some skills that i learned was Organization and Consideration
+
+### Organization 
+I learned this skill as i used to be a very messy person always losing stuff and make work most of the time was hard to read so over time i learned to place my stuff in a neater way as i used more folders to hold my stuff so i can know which folder had the material that i needed for that subject. Also started to make my work neater as i improved my handwriting and formatting in google docs and etc.
+
 
 
 [Previous](entry01.md) | [Next](entry03.md)
