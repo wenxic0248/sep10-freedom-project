@@ -13,6 +13,11 @@ some skills that i learned was Organization and Consideration
 ### Organization 
 I learned this skill as i used to be a very messy person always losing stuff and make work most of the time was hard to read so over time i learned to place my stuff in a neater way as i used more folders to hold my stuff so i can know which folder had the material that i needed for that subject. Also started to make my work neater as i improved my handwriting and formatting in google docs and etc.
 
+### Consideration 
+I'm considering the cooking technology that i want to make a website on because there is a lot of cooking technology out there and also i want to give people that use or see my website the most accurate information so it doesn't mislead people or give wrong info to people so im trying to make sure my research is the best.
+### summary 
+I'm making a lot fo progress im still super excited to making my website hoping it would be a very good / useful one
+
 
 
 
