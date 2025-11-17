@@ -21,10 +21,10 @@ Topic: **Cooking apps**
   * https://asianinspirations.com.au/wp-content/uploads/2018/07/Steam-Bamboo-Basket-940x627.jpg
  
  * My second search: Cooking devices
- * I checked out this first website https://www.goodhousekeeping.com/cooking-tools/g28563931/cool-kitchen-gadgets/
- * it tells you about all of these cooking devices and ranking them on how useful they are
+  * I checked out this first website https://www.goodhousekeeping.com/cooking-tools/g28563931/cool-kitchen-gadgets/
+  * it tells you about all of these cooking devices and ranking them on how useful they are
  * there were a lot of device ranging from a device to make ice to devices that are useful for baking
- * for example a whisk wiper to remove any stuck food or batter on the whisk
+  * for example a whisk wiper to remove any stuck food or batter on the whisk
  * or a Slice Ceramic Blade Safety Cutter that protects you from cutting yourself
  * Anyday Microwave Cookware to hold leftover food to mircowave
  * or a grater that can be used to grate both cheese and a lime
