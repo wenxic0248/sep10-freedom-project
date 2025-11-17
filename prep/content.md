@@ -17,6 +17,11 @@ Topic: **Cooking apps**
 *  Somewhat Complex
     *  Cooking Gadgets
     *  Cooking Gadgets That I Looked Into:[zulaykitchen](https://www.zulaykitchen.com/blogs/kitchen-tips/12-proven-kitchen-gadgets-that-will-make-your-life-easier),[esty](https://www.etsy.com/market/kitchen_gadgets?utm_source=bing&utm_medium=cpc&utm_term=kitchen_b&utm_campaign=Search_US_DSA_BNG_ENG_Home_Categories_All&utm_ag=Kitchen&utm_custom1=_k_865160ff8f141f9a035409e50f9eed01_k_&utm_content=bing_412618195_1307319656207387_81707548065971_dat-2333507271668078:loc-190_c_&utm_custom2=412618195&msclkid=865160ff8f141f9a035409e50f9eed01),[WillamSonoma](https://www.etsy.com/market/kitchen_gadgets?utm_source=bing&utm_medium=cpc&utm_term=kitchen_b&utm_campaign=Search_US_DSA_BNG_ENG_Home_Categories_All&utm_ag=Kitchen&utm_custom1=_k_865160ff8f141f9a035409e50f9eed01_k_&utm_content=bing_412618195_1307319656207387_81707548065971_dat-2333507271668078:loc-190_c_&utm_custom2=412618195&msclkid=865160ff8f141f9a035409e50f9eed01)
+    *  Findings:these Technology are useful in cooking for example a cutting board, knife, bakings trays, spoon and etc there were a lot of gadgets for the Cooking Topic.Some of these gadgets are very useful on a daily basis.
+    *  These Cooking gagdets helps with Cooking as they help make some process of cooking more efficient/ takes less time to do this thing.
+
+
+  *
    
    
    
