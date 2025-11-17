@@ -9,7 +9,8 @@ Topic: **Cooking apps**
 * Least Complex
   *  Cooking Apps
   *  Apps That I Looked Into:[Yummly](https://www.kitchenaid.com/recipes.html),[Bigoven](https://www.bigoven.com/),[AllRecipes](https://www.allrecipes.com/)
-  *  Finding:Throughtout all of these apps that i looked into all of them had recipes for you to learn and to cook them
+  *  Finding:Throughtout all of these apps that i looked into all of them had recipes for you to learn and to cook them and some Of them does advertise some cooking hardware
+  *  This can be useful for people that are either new to cooking or People that doesn't know what to cook 
 
 
    
