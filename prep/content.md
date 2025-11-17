@@ -14,7 +14,8 @@ Topic: **Cooking apps**
 * for example wifi enabled oven and cook top
 
 ## Part A: existing technology
-* steaming 
+* steaming
+ * 
   * This is a underrated cooking technology / way of cooking 
   * steaming shrimp dumpling
   * steaming is a very old techinque of cooking
@@ -22,7 +23,7 @@ Topic: **Cooking apps**
  
  * My second search: Cooking devices
   * I checked out this first website https://www.goodhousekeeping.com/cooking-tools/g28563931/cool-kitchen-gadgets/
-  * it tells you about all of these cooking devices and ranking them on how useful they are
+ * it tells you about all of these cooking devices and ranking them on how useful they are
  * there were a lot of device ranging from a device to make ice to devices that are useful for baking
   * for example a whisk wiper to remove any stuck food or batter on the whisk
  * or a Slice Ceramic Blade Safety Cutter that protects you from cutting yourself
