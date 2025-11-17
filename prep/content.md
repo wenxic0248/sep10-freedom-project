@@ -21,7 +21,9 @@ Topic: **Cooking apps**
     *  These Cooking gagdets helps with Cooking as they help make some process of cooking more efficient/ takes less time to do this thing.
 
 
-  *
+  *Very Complex
+    * Cooking Equipment
+    *Equipment That I Looked Into:[gasgrill](https://www.webstaurantstore.com/cooking-performance-group-cbr36-36-gas-radiant-charbroiler-120-000-btu/351CRCPG36NL.html)[,fryer](https://www.webstaurantstore.com/avantco-ff50-natural-gas-50-lb-stainless-steel-floor-fryer-120-000-btu/177FF50N.html),[toasters](https://www.webstaurantstore.com/avantco-thd1800-standard-duty-4-slice-commercial-toaster-with-wide-1-1-2-slots-120v/184THD1800.html)
    
    
    
