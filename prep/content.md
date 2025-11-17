@@ -8,7 +8,7 @@ Topic: **Cooking apps**
 ## Categories
 * Least Complex
   *  Cooking Apps
-  *  Apps That I Looked Into:([Yummly](https://www.kitchenaid.com/recipes.html),
+  *  Apps That I Looked Into:([Yummly](https://www.kitchenaid.com/recipes.html),[Bigoven](https://www.bigoven.com/),[AllRecipes](https://www.allrecipes.com/)
 
 
    
