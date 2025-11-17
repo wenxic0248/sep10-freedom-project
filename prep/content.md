@@ -24,6 +24,8 @@ Topic: **Cooking apps**
   * Very Complex
     *  Cooking Equipment
     *  Equipment That I Looked Into:[gasgrill](https://www.webstaurantstore.com/cooking-performance-group-cbr36-36-gas-radiant-charbroiler-120-000-btu/351CRCPG36NL.html)[,fryer](https://www.webstaurantstore.com/avantco-ff50-natural-gas-50-lb-stainless-steel-floor-fryer-120-000-btu/177FF50N.html),[toasters](https://www.webstaurantstore.com/avantco-thd1800-standard-duty-4-slice-commercial-toaster-with-wide-1-1-2-slots-120v/184THD1800.html)
+    *  Findings:These Cooking Equipment are very unqiue to do what only they can do for example a fryer that can make food crispy and golden brown in a few mins or a grill that gives steak/meat a unique favor
+    *  These Equipment all revolts around Cooking But makes it different as all of these equipment has unqiue use for them.
    
    
    
