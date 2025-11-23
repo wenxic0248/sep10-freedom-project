@@ -31,4 +31,4 @@ Topic: **Cooking apps**
    
 
 ## Part B: possible future technology
-* e
+* A very smart cooking robot
