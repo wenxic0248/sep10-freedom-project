@@ -39,4 +39,12 @@ Topic: **Cooking apps**
   *   this robot would never fight back againist us
   *   This robot is powered by ai so it can think at a very quick rate
   *   This robot is perfect never would make a mistake
-     ![](https://static.vecteezy.com/system/resources/previews/021/825/651/large_2x/robot-chef-cooking-in-kitchen-of-future-home-genius-smart-robot-working-in-modern-house-free-photo.jpg)  
+     ![](https://static.vecteezy.com/system/resources/previews/021/825/651/large_2x/robot-chef-cooking-in-kitchen-of-future-home-genius-smart-robot-working-in-modern-house-free-photo.jpg)
+* Smart mini fridge
+  * This minifridge can be resized
+  * This mini fridge can freeze things at a very cold temperture
+  * it is very light so you can carry it around
+  * you can set the temperture of them mini fridge making thing how cold it needs to be
+  * you can add lights inside of the minifridge
+  * this minifridge is very easy to use
+    ![](https://reviewed-com-res.cloudinary.com/image/fetch/s--6yMSrIui--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1724189490000/Hero-20240816_MiniFridgeTBRNHeroV4_Renzi.PNG)
