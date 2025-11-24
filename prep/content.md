@@ -16,8 +16,8 @@ Topic: **Cooking apps**
    
 *  Somewhat Complex
     *  Cooking Gadgets
-    *  Cooking Gadgets That I Looked Into:[zulaykitchen](https://www.zulaykitchen.com/blogs/kitchen-tips/12-proven-kitchen-gadgets-that-will-make-your-life-easier),[esty](https://www.etsy.com/market/kitchen_gadgets?utm_source=bing&utm_medium=cpc&utm_term=kitchen_b&utm_campaign=Search_US_DSA_BNG_ENG_Home_Categories_All&utm_ag=Kitchen&utm_custom1=_k_865160ff8f141f9a035409e50f9eed01_k_&utm_content=bing_412618195_1307319656207387_81707548065971_dat-2333507271668078:loc-190_c_&utm_custom2=412618195&msclkid=865160ff8f141f9a035409e50f9eed01),[WillamSonoma](https://www.etsy.com/market/kitchen_gadgets?utm_source=bing&utm_medium=cpc&utm_term=kitchen_b&utm_campaign=Search_US_DSA_BNG_ENG_Home_Categories_All&utm_ag=Kitchen&utm_custom1=_k_865160ff8f141f9a035409e50f9eed01_k_&utm_content=bing_412618195_1307319656207387_81707548065971_dat-2333507271668078:loc-190_c_&utm_custom2=412618195&msclkid=865160ff8f141f9a035409e50f9eed01)
-    *  Findings:these Technology are useful in cooking for example a cutting board, knife, bakings trays, spoon and etc there were a lot of gadgets for the Cooking Topic.Some of these gadgets are very useful on a daily basis.
+    *  Cooking Gadgets That I Looked Into:[zulaykitchen](https://www.zulaykitchen.com/blogs/kitchen-tips/12-proven-kitchen-gadgets-that-will-make-your-life-easier),[WillamSonoma](https://www.etsy.com/market/kitchen_gadgets?utm_source=bing&utm_medium=cpc&utm_term=kitchen_b&utm_campaign=Search_US_DSA_BNG_ENG_Home_Categories_All&utm_ag=Kitchen&utm_custom1=_k_865160ff8f141f9a035409e50f9eed01_k_&utm_content=bing_412618195_1307319656207387_81707548065971_dat-2333507271668078:loc-190_c_&utm_custom2=412618195&msclkid=865160ff8f141f9a035409e50f9eed01)
+    *  Findings:these Technology are useful in cooking for example a  bakings trays, spoon and etc there were a lot of gadgets for the Cooking Topic.Some of these gadgets are very useful on a daily basis.
     *  These Cooking gagdets helps with Cooking as they help make some process of cooking more efficient/ takes less time to do this thing.
 
 
@@ -36,9 +36,4 @@ Topic: **Cooking apps**
   *   This robot is self aware of it's surrounding being able to work with other robot/humans
   *   this robot can work at a super fast pace for reference it can cooking 12 dishes by the time a human cooks one
   *   this robot is able to multi task being able to cook many dishes at once
-* A protective glove that is cut resistance
-  * This glove would be made out of a rubber like material
-  * this glove protects your hands
-  * this glove is waterproof
-  * this glove can be reused many times
-* A ![](https://i5.walmartimages.com/seo/Safety-Cut-Resistant-Gloves-Anti-Cut-Proof-Grey-Anti-Cut-Level-Work-Garden-Butcher-Magic-Gardening-Handguard-Kitchen-Safety-Work-Glove_3cbf62df-66d5-4409-88f8-61fc96805fa8.c369aa32650902d6b88a1002764ee76d.jpeg)
+  *   ![]()  
