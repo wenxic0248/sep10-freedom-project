@@ -41,4 +41,4 @@ Topic: **Cooking apps**
   * this glove protects your hands
   * this glove is waterproof
   * this glove can be reused many times
-* A [](https://i5.walmartimages.com/seo/Safety-Cut-Resistant-Gloves-Anti-Cut-Proof-Grey-Anti-Cut-Level-Work-Garden-Butcher-Magic-Gardening-Handguard-Kitchen-Safety-Work-Glove_3cbf62df-66d5-4409-88f8-61fc96805fa8.c369aa32650902d6b88a1002764ee76d.jpeg)
+* A ![](https://i5.walmartimages.com/seo/Safety-Cut-Resistant-Gloves-Anti-Cut-Proof-Grey-Anti-Cut-Level-Work-Garden-Butcher-Magic-Gardening-Handguard-Kitchen-Safety-Work-Glove_3cbf62df-66d5-4409-88f8-61fc96805fa8.c369aa32650902d6b88a1002764ee76d.jpeg)
