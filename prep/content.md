@@ -32,3 +32,8 @@ Topic: **Cooking apps**
 
 ## Part B: possible future technology
 * A very smart cooking robot
+*   This robot can cook anything any dishes from all around the world
+*   This robot is self aware of it's surrounding being able to work with other robot/humans
+*   this robot can work at a super fast pace for reference it can cooking 12 dishes by the time a human cooks one
+*   this robot is able to multi task being able to cook many dishes at once
+* e
