@@ -36,4 +36,7 @@ Topic: **Cooking apps**
   *   This robot is self aware of it's surrounding being able to work with other robot/humans
   *   this robot can work at a super fast pace for reference it can cooking 12 dishes by the time a human cooks one
   *   this robot is able to multi task being able to cook many dishes at once
-  *   ![]()  
+  *   this robot would never fight back againist us
+  *   This robot is powered by ai so it can think at a very quick rate
+  *   This robot is perfect never would make a mistake
+     ![](https://static.vecteezy.com/system/resources/previews/021/825/651/large_2x/robot-chef-cooking-in-kitchen-of-future-home-genius-smart-robot-working-in-modern-house-free-photo.jpg)  
