@@ -1,7 +1,8 @@
 # Entry 3
 ##### 12/7/25
 ## Content
-I brainstormed part b by searching up cooking robots/and other cooking technology. i finalized my content by ranking them from least complex to most complex. One of my idea was a cooking robot. As i noticed that not everyone in this world can cook every food or even know how to even cook so i wanted to make a robot that was able to cooking anything for you, i think for this technology to be invented in the next few year, maybe 20-30 years because the robots that we got right now are not perfect enough to cook without any mistakes image 1:(https://static.vecteezy.com/system/resources/previews/021/825/651/large_2x/robot-chef-cooking-in-kitchen-of-future-home-genius-smart-robot-working-in-modern-house-free-photo.jpg
+I brainstormed part b by searching up cooking robots/and other cooking technology. i finalized my content by ranking them from least complex to most complex. One of my idea was a cooking robot. As i noticed that not everyone in this world can cook every food or even know how to even cook so i wanted to make a robot that was able to cooking anything for you, i think for this technology to be invented in the next few year, maybe 20-30 years because the robots that we got right now are not perfect enough to cook without any mistakes image 1:(https://static.vecteezy.com/system/resources/previews/021/825/651/large_2x/robot-chef-cooking-in-kitchen-of-future-home-genius-smart-robot-working-in-modern-house-free-photo.jpg) image 2 (https://reviewed-com-res.cloudinary.com/image/fetch/s--6yMSrIui--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1724189490000/Hero-20240816_MiniFridgeTBRNHeroV4_Renzi.PNG)
+
 
 
 ## EDP(Engineering Design Process)
