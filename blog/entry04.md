@@ -12,8 +12,16 @@ background-color:$deepblue;
 }
 
 ```
-skills
+## skills
 
+## How to learn
+I had a great time watching through that video about SASS that gave me a better understand of one thing that SASS can do.Learning something new by myself was a achievement that i wanted to complete a long time ago being able to do something without any help from teachers
+
+## Logical Reasoning 
+I did have some challenges during this when i looked at some of the videos for SASS it was super confusing so i tried to keep switching between many of them until i found the perfect one for me that worked a lot better as this tutorial doesn't use any complex code that we didn't learn before
+
+## How to google
+I did a good amount of searches Before i found the perfect i first searched SASS and nothing useful showed up so i changed it to SASS tutorial so more useful topics i needed to know about SASS popped up
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
