@@ -4,8 +4,12 @@
 ## Choosing my tool for the freedom project
 The tool that i chose for my freedom project was SASS Because i felt like SASS was a simple yet good tool for my project as this tool would allow me to style my html more in my freedom project So far the way i have tinkered with it is looking at Youtube tutorials and following along with it to learn how to write some css code in SASS language, Like you can use it to add variables 
 ```css
-$deepBlue; #032f3e
+$deepBlue:#032f3e;
 
+
+body{
+background-color:$deepblue;
+}
 
 ```
 
