@@ -5,7 +5,6 @@
 * [Desktop]()
 
 ## Colors
-* `#ABC123`
 * #EBEDD0
 * #DCEDD0
 * #D0EDD2
