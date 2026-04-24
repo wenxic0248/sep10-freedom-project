@@ -6,6 +6,11 @@
 
 ## Colors
 * `#ABC123`
+* #EBEDD0
+* #DCEDD0
+* #D0EDD2
+* #D2D0ED
+* #EDD0EB
 
 ## Fonts
 * [Text](URL)
