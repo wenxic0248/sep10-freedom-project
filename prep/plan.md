@@ -30,7 +30,7 @@
 
 #### Beyond MVP
 
-* Task
+* if i got time i'm tell mr.mueller what could i do for beyond mvp cuz i forgot
 
 
 
