@@ -13,7 +13,13 @@ $font-weight: (
 
 ```
 
+## skills 
 
+## Growth mindset 
+I took my time watching this video and if i had to rewatch an part to gain a better understand i will go back to that part again and if i did get stuck at one part i would ask mr.mueller for some help.
+
+## Attention to detial
+I needed to pay attention to my spelling and everything for my new code because one mistake could make the whole code not work and then i would need to go back and find where i made that typo
 
 
 
