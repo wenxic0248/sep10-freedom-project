@@ -16,6 +16,9 @@ Today i contiuned to pratice the old Sass skills i that had already learned and 
 
 ### 4/15/2026
 Today i contiuned to watch [this video](https://www.youtube.com/watch?v=_a5j7KoflTs&t=58s) and i learned bout extend it's like a way to modify your css of something say you got paragraph 1 and 2 as a class they are going to have the same css but you want change something to make paragrpah 1 different from 2 so you can #{&}__Paragraph2{ @extend .main_paragraph1: &:hover{color:$accent-color;}
+
+### 4/27/2026
+Today was not the best day because i couldn't really code anymore because my SASS extension was bugging out but the only thing i did was review what i had learned previously to countine gaining an better understanding of my tool
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
