@@ -21,7 +21,8 @@ I took my time watching this video and if i had to rewatch an part to gain a bet
 ## Attention to detial
 I needed to pay attention to my spelling and everything for my new code because one mistake could make the whole code not work and then i would need to go back and find where i made that typo
 
-
+## Problem decompostion
+If i found one of the parts that i was learning about way too confusing to me i would take my time watching the video and slowly break down the code into multiple parts to have an better understanding
 
 
 
