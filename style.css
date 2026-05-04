@@ -9,10 +9,23 @@ h1 {
 }
 .card-img{
 height: 300px;
-width:400px;
+width:300px;
 }
 .content{
 background-color:#EBEDD0;
 
 }
 
+.part-a{
+background-color:#DCEDD0;
+
+
+}
+.card-img2{
+height: 500px;
+width:600px;
+}
+.part-b{
+background-color:#D0EDD2;
+
+}
