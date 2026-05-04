@@ -46,5 +46,5 @@ Topic: **Cooking apps**
  * super useful as it tell you step by step
  * it is easy to bring anywhere with you
  * this glasses would never break or run out of energy
-    ![](futureglasses.jpg)
+    ![](../futureglasses.jpg)
    
