@@ -37,16 +37,16 @@
 
 
 
-<!-- DO NOT USE THIS YET
+
 
 #### Peer Feedback 
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+| Miles | I like how you had a time line to show how cooking technolgy has changed over time. | Some of your images were a off in your time line. You could set the size of the image to change this. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
--->
+
