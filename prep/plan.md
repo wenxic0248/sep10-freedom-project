@@ -44,8 +44,8 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 | Miles | I like how you had a time line to show how cooking technolgy has changed over time. | Some of your images were a off in your time line. You could set the size of the image to change this. |
-|Lily  |It's good how you give a lot of details and actually tell which years it was from and by who, also you include some future ideas and they are cool.  | I don't have much to say for grows but maybe fix some of your grammar or add slight borders on the images al though its not needed, it all looks good. |
-|  |  |  |
+|Lily |It's good how you give a lot of details and actually tell which years it was from and by who, also you include some future ideas and they are cool.  | I don't have much to say for grows but maybe fix some of your grammar or add slight borders on the images al though its not needed, it all looks good. |
+| Jasmine | I love the gentle color scheme, and how you included images to your website to show us the hardware and technology | Maybe make the images a bit smaller to fit in with the boxes of text but overall your project is awesome! |
 |  |  |  |
 |  |  |  |
 
