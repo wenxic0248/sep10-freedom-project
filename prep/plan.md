@@ -30,7 +30,9 @@
 
 #### Beyond MVP
 
-* if i got time i'm tell mr.mueller what could i do for beyond mvp cuz i forgot
+* Dark tint for images
+* Advance Css
+* Fix the size of the images
 
 
 
