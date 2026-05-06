@@ -33,6 +33,7 @@
 * Dark tint for images
 * Advance Css
 * Fix the size of the images
+* take in all the feedback i got and makes some changes
 
 
 
