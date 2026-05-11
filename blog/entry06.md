@@ -58,6 +58,8 @@ I learned this skill in class as every day i was constantly coding if i didn't m
 
 ## summary 
 Coding the freedom project was 100% one fo the best experience that i had i was able to put all the skills that i learned to use and was pretty fun to do 
+
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
