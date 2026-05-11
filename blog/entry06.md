@@ -20,7 +20,24 @@ height:200px;
 width:150;
 
 }
+```
+Challenge #2
+When i first tried making my nav bar to bring you down to parts of my website say part B of my project or part A or even the Content part i first tried writing like content but it didn't wokr at all because it tried to bring you to a different page that was named content but i didn't have one so it will give u like a error page
+```html
+<div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="Context.html">Context</a>
+        </li>
+```
+I later figured out all you ahd to do is make div classes for that part and add an # into the code like say your div class was named content you would just add #content into the href linka nd ti will bring you down
 
+```html
+<div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="#Context">Context</a>
+        </li>
 
 ```
 [Previous](entry05.md) | [Next](entry07.md)
