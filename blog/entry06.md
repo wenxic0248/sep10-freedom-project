@@ -40,6 +40,24 @@ I later figured out all you ahd to do is make div classes for that part and add 
         </li>
 
 ```
+
+## EDP
+Im currently on step 7-8 trying to improve my website and eventually communicate the result. im about to prepare my presentation soon about my project which im not that ready but i will eventually get ready to do it and step 7 im basically almost done with that part.
+
+
+## Skills
+Some skills that i learned while coding my freedom project
+
+
+## Orginzation
+Orginzation was an important skill for my freedom project because i stayed orginazated i was able to keep track of my materials and this also helped me code my project and have a much easier time as i didn't to spend time looking for where i placed this info or that and it also helped me with my div problems while i was coding and making an wire frame also gave me a sense of direction as what i was trying to aim for at the end of my project
+
+
+## Time manangement
+I learned this skill in class as every day i was constantly coding if i didn't mange my time right i dont think i would of finished this project in time but thanks to what i did in class i was able to not fall behind of my schedule.
+
+## summary 
+Coding the freedom project was 100% one fo the best experience that i had i was able to put all the skills that i learned to use and was pretty fun to do 
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
