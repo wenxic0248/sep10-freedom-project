@@ -1,16 +1,20 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Have you wondered what future cooking technology we could have in the next 50 years? 100 years? to help us in cooking
 
 ## Product
-* 
+* I will give a demo of my project and show the class my ideas for future inventions for cooking
 
 ## Process
-* 
+* Code snippets for my cards
+* my wire frame compared to my website
+  
 
 ## Conclusion
-* 
+* takeaways
+* Take your time and don't give up
+* Evene though i had many times when i was struggling so much on the project that i straight up wanted to stop there and give up but i kept going and didn't quit
 
 <!-- EXAMPLE
 
